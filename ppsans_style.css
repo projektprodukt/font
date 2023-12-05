@@ -1,0 +1,24 @@
+@font-face {
+    font-family: "PP Sans Light";
+    font-style: normal;
+    font-weight: 400;
+    src: url('ppsans/PPSans-Light.eot'); /* IE9 Compat Modes */
+    src: url('ppsans/PPSans-Light.eot?#iefix') format("embedded-opentype"), /* IE6-8 */
+         url('ppsans/PPSans-Light.woff') format("woff"), /* Mordern Browsers */
+         url('ppsans/PPSans-Light.woff2') format("woff2"), /* Mordern Browsers */
+         url('ppsans/PPSans-Light.ttf') format("truetype"); /* If not support woff */
+}
+@font-face {
+    font-family: "PP Sans Bold";
+    font-style: bold;
+    font-weight: 600;
+    src: url('ppsans/PPSans-Bold.eot'); /* IE9 Compat Modes */
+    src: url('ppsans/PPSans-Bold.eot?#iefix') format("embedded-opentype"), /* IE6-8 */
+         url('ppsans/PPSans-Bold.woff') format("woff"), /* Mordern Browsers */
+         url('ppsans/PPSans-Bold.woff2') format("woff2"), /* Mordern Browsers */
+         url('ppsans/PPSans-Bold.ttf') format("truetype"); /* If not support woff */
+}
+@font-face {
+    font-family: "PP Sans Variable";
+    src: url('ppsans/PPSansVariableGX.ttf') format("truetype"); /* If not support woff */
+}
